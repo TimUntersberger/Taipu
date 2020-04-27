@@ -1,0 +1,26 @@
+{
+  "name": "taipu",
+  "version": "1.0.0",
+  "description": "A validation library for javascript/typescript",
+  "main": "dist/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "ts-node lib/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimUntersberger/Taipu.git"
+  },
+  "author": "Tim Untersberger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TimUntersberger/Taipu/issues"
+  },
+  "homepage": "https://github.com/TimUntersberger/Taipu#readme",
+  "devDependencies": {
+    "ts-node": "^8.9.1",
+    "typescript": "^3.8.3"
+  }
+}

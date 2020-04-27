@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES3",
+    "incremental": true,
+    "moduleResolution": "Node",
+    "outDir": "dist",
+    "rootDir": "lib"
+  }
+}
