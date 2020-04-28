@@ -1,4 +1,5 @@
 {
+  "exclude": ["examples"],
   "compilerOptions": {
     "target": "ES3",
     "incremental": true,
